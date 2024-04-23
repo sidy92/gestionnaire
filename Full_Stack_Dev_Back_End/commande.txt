@@ -1,0 +1,28 @@
+- Pour générer une application :
+
+npm install -g express-generator
+express -h
+
+taper la commande dans le bon dossier, cette commsande va créer tous les dossiers et fichiers nécessaires :
+>> express
+
+sur vscode dans le bon dossier
+>> npm install
+>> npm start
+
+Ensuite sur internet taper : localhost:3000
+
+sur vscode
+>> npm install -g nodemon
+
+sur vscode
+>> npm i mongoose
+
+sur vscode
+>> npm i dotenv
+
+création du fichier development.env et production.env
+
+
+Installation de express-validator pour valider les données
+npm install express-validator
